@@ -14,4 +14,4 @@ Please cite this code as:
 
 The dependencies of the different functions in the code is described by the following diagram.
 
-![alt text](https://raw.githubusercontent.com/bentoayr/Efficient-Projection-onto-the-Perfect-Phylogeny-Model/edit/master/pic/cflow0.png)
+![alt text](https://raw.githubusercontent.com/bentoayr/Efficient-Projection-onto-the-Perfect-Phylogeny-Model/master/pic/cflow0.png)
