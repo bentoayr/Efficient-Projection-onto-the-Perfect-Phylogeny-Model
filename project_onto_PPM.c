@@ -911,7 +911,6 @@ int main(int argc, const char * argv[]) {
     
     // list of edges in the tree
     edge tree_edges[9] = {{2,0},{0,1},{1,5},{0,6},{0,7},{7,8},{9,8},{8,3},{3,4}};
-    // edge tree_edges[9] = {{2,0},{0,1},{1,5},{0,6},{0,7},{7,8},{8,9},{8,3},{3,4}};
     // adjacency matrixx of the tree
     shortint adjacency_mat[10*10] = {0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,
         0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,
