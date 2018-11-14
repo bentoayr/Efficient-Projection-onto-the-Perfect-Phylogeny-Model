@@ -1,7 +1,7 @@
 # Efficient Projection onto the Perfect Phylogeny Model
 
 
-This code implements the algorithm described in the paper "Efficient Projection onto the Perfect Phylogeny Model".
+This code implements the algorithm described in the paper "[Efficient Projection onto the Perfect Phylogeny Model](https://arxiv.org/pdf/1811.01129.pdf)".
 
 Please cite this code as:
 
