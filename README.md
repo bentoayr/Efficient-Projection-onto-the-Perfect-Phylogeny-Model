@@ -12,9 +12,17 @@ Please cite this code as:
   year={2018}
 }
 
-To compile the code just do gcc project_onto_PPM.c 
+To compile the code just do 
 
-To run the code just do ./a.out InputDataExample OutputData 0     or   ./a.out InputDataExample OutputData 1
+gcc project_onto_PPM.c 
+
+To run the code just do 
+
+./a.out InputDataExample OutputData 0    
+
+or 
+
+./a.out InputDataExample OutputData 1
 
 The input data is of the following form, see the example file for exact formating instructions.
 
