@@ -28,6 +28,8 @@ flag, 0 or 1, that indicates whether to output the inferred fraction of each muu
 
 When calling the program, the third argument, 0 or 1, indicates whether the columns of M must sum to 1, or sum to something smaller than 1.
 
+If you want to test the code on random inputs, and compare against the output produced by CVX-Matlab, you can run the .m script in Matlab, after you have installed CVX  <http://cvxr.com/cvx/download/> 
+
 The dependencies of the different functions in the code is described by the following diagram.
 
 ![alt text](https://raw.githubusercontent.com/bentoayr/Efficient-Projection-onto-the-Perfect-Phylogeny-Model/master/pic/cflow0.png)
