@@ -12,6 +12,10 @@ Please cite this code as:
   year={2018}
 }
 
+---------
+
+## Instructions:
+
 * To compile the code just do 
 ```
 gcc project_onto_PPM.c 
@@ -38,6 +42,6 @@ or
 
 * If you want to test the code on random inputs, and compare against the output produced by CVX-Matlab, you can run the  script test_against_CVX_matlab.m in Matlab, after you have installed CVX  <http://cvxr.com/cvx/download/> 
 
-The dependencies of the different functions in the code is described by the following diagram.
+* The dependencies of the different functions in the code is described by the following diagram.
 
 ![alt text](https://raw.githubusercontent.com/bentoayr/Efficient-Projection-onto-the-Perfect-Phylogeny-Model/master/pic/cflow0.png)
