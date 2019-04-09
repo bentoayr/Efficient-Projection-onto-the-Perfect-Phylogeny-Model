@@ -913,6 +913,11 @@ realnumber tree_cost_projection(shortint inner_flag, shortint compute_M_flag, re
     for (shortint i = 0; i < num_nodes; i++){
         visited[i] = 0;
     }
+
+    for (int i = 0; i < num_nodes*T - 1; i++){
+        realnumber x = ((realnumber)rand() / (realnumber)(RAND_MAX)) * 2e-6 - 1e-6;
+        data[i] += x;
+    }
     
     realnumber error_tree_model = 0.0;
     
